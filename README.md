@@ -1,16 +1,18 @@
-### Hi there 👋
+# Halo semua👋👋
 
-<!--
-**tpadimas15/tpadimas15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya **Tri Putra Adimas Adimas**.\
 
-Here are some ideas to get you started:
+Saya seorang **Junior Web Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saat ini saya sedang menempuh semester akhir di [Universitas Mercu Buana](https://www.mercubuana.ac.id/).\
+
+Saya memiliki minat yang besar terhadap pengembangan website. 
+Tools yang biasa saya gunakan adalah:  
+-HTML  
+-CSS  
+-Javascript  
+-Node JS  
+-React JS  
+-Postman  
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/tri-putra-adimas-nugraha/)ku ya. 
